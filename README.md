@@ -1,5 +1,5 @@
 ## What is Docker?
-Docker is a tool that allows you to create and manage lightweight, portable containers that can run your applications in any environment, without worrying about dependencies or other environmental factors.
+Docker is a platform that allows you to create, run, and manage applications in containers. Containers are a lightweight and portable way to package and distribute software, along with all of its dependencies and configuration settings.
 
 ## Docker Basics
 ### Dockerfile
